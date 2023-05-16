@@ -1,0 +1,11 @@
+D:\Code Flakes\C# Windows Form Applications\Image List Box\Image List Box\obj\Debug\Image List Box.csproj.AssemblyReference.cache
+D:\Code Flakes\C# Windows Form Applications\Image List Box\Image List Box\obj\Debug\Image List Box.csproj.SuggestedBindingRedirects.cache
+D:\Code Flakes\C# Windows Form Applications\Image List Box\Image List Box\obj\Debug\Image_List_Box.Form1.resources
+D:\Code Flakes\C# Windows Form Applications\Image List Box\Image List Box\obj\Debug\Image_List_Box.Properties.Resources.resources
+D:\Code Flakes\C# Windows Form Applications\Image List Box\Image List Box\obj\Debug\Image List Box.csproj.GenerateResource.cache
+D:\Code Flakes\C# Windows Form Applications\Image List Box\Image List Box\obj\Debug\Image List Box.csproj.CoreCompileInputs.cache
+D:\Code Flakes\C# Windows Form Applications\Image List Box\Image List Box\bin\Debug\Image List Box.exe.config
+D:\Code Flakes\C# Windows Form Applications\Image List Box\Image List Box\bin\Debug\Image List Box.exe
+D:\Code Flakes\C# Windows Form Applications\Image List Box\Image List Box\bin\Debug\Image List Box.pdb
+D:\Code Flakes\C# Windows Form Applications\Image List Box\Image List Box\obj\Debug\Image List Box.exe
+D:\Code Flakes\C# Windows Form Applications\Image List Box\Image List Box\obj\Debug\Image List Box.pdb

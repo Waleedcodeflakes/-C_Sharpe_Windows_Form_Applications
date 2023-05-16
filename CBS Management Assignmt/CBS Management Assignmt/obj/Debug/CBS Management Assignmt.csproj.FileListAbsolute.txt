@@ -1,0 +1,11 @@
+C:\Users\Waleed Ahmed\Documents\C# Console applications\CBS Management Assignmt\CBS Management Assignmt\bin\Debug\CBS Management Assignmt.exe.config
+C:\Users\Waleed Ahmed\Documents\C# Console applications\CBS Management Assignmt\CBS Management Assignmt\bin\Debug\CBS Management Assignmt.exe
+C:\Users\Waleed Ahmed\Documents\C# Console applications\CBS Management Assignmt\CBS Management Assignmt\bin\Debug\CBS Management Assignmt.pdb
+C:\Users\Waleed Ahmed\Documents\C# Console applications\CBS Management Assignmt\CBS Management Assignmt\obj\Debug\CBS Management Assignmt.csproj.AssemblyReference.cache
+C:\Users\Waleed Ahmed\Documents\C# Console applications\CBS Management Assignmt\CBS Management Assignmt\obj\Debug\CBS Management Assignmt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Waleed Ahmed\Documents\C# Console applications\CBS Management Assignmt\CBS Management Assignmt\obj\Debug\CBS_Management_Assignmt.Form1.resources
+C:\Users\Waleed Ahmed\Documents\C# Console applications\CBS Management Assignmt\CBS Management Assignmt\obj\Debug\CBS_Management_Assignmt.Properties.Resources.resources
+C:\Users\Waleed Ahmed\Documents\C# Console applications\CBS Management Assignmt\CBS Management Assignmt\obj\Debug\CBS Management Assignmt.csproj.GenerateResource.cache
+C:\Users\Waleed Ahmed\Documents\C# Console applications\CBS Management Assignmt\CBS Management Assignmt\obj\Debug\CBS Management Assignmt.csproj.CoreCompileInputs.cache
+C:\Users\Waleed Ahmed\Documents\C# Console applications\CBS Management Assignmt\CBS Management Assignmt\obj\Debug\CBS Management Assignmt.exe
+C:\Users\Waleed Ahmed\Documents\C# Console applications\CBS Management Assignmt\CBS Management Assignmt\obj\Debug\CBS Management Assignmt.pdb

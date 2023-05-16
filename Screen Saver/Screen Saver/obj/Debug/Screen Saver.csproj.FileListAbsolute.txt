@@ -1,0 +1,11 @@
+D:\Code Flakes\C# Windows Form Applications\Screen Saver\Screen Saver\bin\Debug\Screen Saver.exe.config
+D:\Code Flakes\C# Windows Form Applications\Screen Saver\Screen Saver\bin\Debug\Screen Saver.exe
+D:\Code Flakes\C# Windows Form Applications\Screen Saver\Screen Saver\bin\Debug\Screen Saver.pdb
+D:\Code Flakes\C# Windows Form Applications\Screen Saver\Screen Saver\obj\Debug\Screen Saver.csproj.AssemblyReference.cache
+D:\Code Flakes\C# Windows Form Applications\Screen Saver\Screen Saver\obj\Debug\Screen Saver.csproj.SuggestedBindingRedirects.cache
+D:\Code Flakes\C# Windows Form Applications\Screen Saver\Screen Saver\obj\Debug\Screen_Saver.Properties.Resources.resources
+D:\Code Flakes\C# Windows Form Applications\Screen Saver\Screen Saver\obj\Debug\Screen Saver.csproj.GenerateResource.cache
+D:\Code Flakes\C# Windows Form Applications\Screen Saver\Screen Saver\obj\Debug\Screen Saver.csproj.CoreCompileInputs.cache
+D:\Code Flakes\C# Windows Form Applications\Screen Saver\Screen Saver\obj\Debug\Screen Saver.exe
+D:\Code Flakes\C# Windows Form Applications\Screen Saver\Screen Saver\obj\Debug\Screen Saver.pdb
+D:\Code Flakes\C# Windows Form Applications\Screen Saver\Screen Saver\obj\Debug\Screen_Saver.Form1.resources

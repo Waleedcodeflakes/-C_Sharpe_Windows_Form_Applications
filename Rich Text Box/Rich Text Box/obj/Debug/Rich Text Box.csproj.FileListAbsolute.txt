@@ -1,0 +1,11 @@
+D:\Code Flakes\C# Windows Form Applications\Rich Text Box\Rich Text Box\bin\Debug\Rich Text Box.exe.config
+D:\Code Flakes\C# Windows Form Applications\Rich Text Box\Rich Text Box\bin\Debug\Rich Text Box.exe
+D:\Code Flakes\C# Windows Form Applications\Rich Text Box\Rich Text Box\bin\Debug\Rich Text Box.pdb
+D:\Code Flakes\C# Windows Form Applications\Rich Text Box\Rich Text Box\obj\Debug\Rich Text Box.csproj.AssemblyReference.cache
+D:\Code Flakes\C# Windows Form Applications\Rich Text Box\Rich Text Box\obj\Debug\Rich Text Box.csproj.SuggestedBindingRedirects.cache
+D:\Code Flakes\C# Windows Form Applications\Rich Text Box\Rich Text Box\obj\Debug\Rich_Text_Box.Form1.resources
+D:\Code Flakes\C# Windows Form Applications\Rich Text Box\Rich Text Box\obj\Debug\Rich_Text_Box.Properties.Resources.resources
+D:\Code Flakes\C# Windows Form Applications\Rich Text Box\Rich Text Box\obj\Debug\Rich Text Box.csproj.GenerateResource.cache
+D:\Code Flakes\C# Windows Form Applications\Rich Text Box\Rich Text Box\obj\Debug\Rich Text Box.csproj.CoreCompileInputs.cache
+D:\Code Flakes\C# Windows Form Applications\Rich Text Box\Rich Text Box\obj\Debug\Rich Text Box.exe
+D:\Code Flakes\C# Windows Form Applications\Rich Text Box\Rich Text Box\obj\Debug\Rich Text Box.pdb

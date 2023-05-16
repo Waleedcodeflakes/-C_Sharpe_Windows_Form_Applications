@@ -1,0 +1,11 @@
+D:\Code Flakes\C# Console applications\Screen saver app\Screen saver app\obj\Debug\Screen saver app.csproj.AssemblyReference.cache
+D:\Code Flakes\C# Console applications\Screen saver app\Screen saver app\obj\Debug\Screen saver app.csproj.SuggestedBindingRedirects.cache
+D:\Code Flakes\C# Console applications\Screen saver app\Screen saver app\obj\Debug\Screen_saver_app.Form1.resources
+D:\Code Flakes\C# Console applications\Screen saver app\Screen saver app\obj\Debug\Screen_saver_app.Properties.Resources.resources
+D:\Code Flakes\C# Console applications\Screen saver app\Screen saver app\obj\Debug\Screen saver app.csproj.GenerateResource.cache
+D:\Code Flakes\C# Console applications\Screen saver app\Screen saver app\obj\Debug\Screen saver app.csproj.CoreCompileInputs.cache
+D:\Code Flakes\C# Console applications\Screen saver app\Screen saver app\bin\Debug\Screen saver app.exe.config
+D:\Code Flakes\C# Console applications\Screen saver app\Screen saver app\bin\Debug\Screen saver app.exe
+D:\Code Flakes\C# Console applications\Screen saver app\Screen saver app\bin\Debug\Screen saver app.pdb
+D:\Code Flakes\C# Console applications\Screen saver app\Screen saver app\obj\Debug\Screen saver app.exe
+D:\Code Flakes\C# Console applications\Screen saver app\Screen saver app\obj\Debug\Screen saver app.pdb

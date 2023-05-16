@@ -1,0 +1,11 @@
+C:\Users\Waleed Ahmed\Documents\C# Console applications\Review Decision App\Review Decision App\bin\Debug\Review Decision App.exe.config
+C:\Users\Waleed Ahmed\Documents\C# Console applications\Review Decision App\Review Decision App\bin\Debug\Review Decision App.exe
+C:\Users\Waleed Ahmed\Documents\C# Console applications\Review Decision App\Review Decision App\bin\Debug\Review Decision App.pdb
+C:\Users\Waleed Ahmed\Documents\C# Console applications\Review Decision App\Review Decision App\obj\Debug\Review Decision App.csproj.AssemblyReference.cache
+C:\Users\Waleed Ahmed\Documents\C# Console applications\Review Decision App\Review Decision App\obj\Debug\Review Decision App.csproj.SuggestedBindingRedirects.cache
+C:\Users\Waleed Ahmed\Documents\C# Console applications\Review Decision App\Review Decision App\obj\Debug\Review_Decision_App.Form1.resources
+C:\Users\Waleed Ahmed\Documents\C# Console applications\Review Decision App\Review Decision App\obj\Debug\Review_Decision_App.Properties.Resources.resources
+C:\Users\Waleed Ahmed\Documents\C# Console applications\Review Decision App\Review Decision App\obj\Debug\Review Decision App.csproj.GenerateResource.cache
+C:\Users\Waleed Ahmed\Documents\C# Console applications\Review Decision App\Review Decision App\obj\Debug\Review Decision App.csproj.CoreCompileInputs.cache
+C:\Users\Waleed Ahmed\Documents\C# Console applications\Review Decision App\Review Decision App\obj\Debug\Review Decision App.exe
+C:\Users\Waleed Ahmed\Documents\C# Console applications\Review Decision App\Review Decision App\obj\Debug\Review Decision App.pdb

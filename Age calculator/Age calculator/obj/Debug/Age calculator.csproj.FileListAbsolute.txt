@@ -1,0 +1,11 @@
+D:\Code Flakes\C# Console applications\Age calculator\Age calculator\bin\Debug\Age calculator.exe.config
+D:\Code Flakes\C# Console applications\Age calculator\Age calculator\bin\Debug\Age calculator.exe
+D:\Code Flakes\C# Console applications\Age calculator\Age calculator\bin\Debug\Age calculator.pdb
+D:\Code Flakes\C# Console applications\Age calculator\Age calculator\obj\Debug\Age calculator.csproj.AssemblyReference.cache
+D:\Code Flakes\C# Console applications\Age calculator\Age calculator\obj\Debug\Age calculator.csproj.SuggestedBindingRedirects.cache
+D:\Code Flakes\C# Console applications\Age calculator\Age calculator\obj\Debug\Age_calculator.Form1.resources
+D:\Code Flakes\C# Console applications\Age calculator\Age calculator\obj\Debug\Age_calculator.Properties.Resources.resources
+D:\Code Flakes\C# Console applications\Age calculator\Age calculator\obj\Debug\Age calculator.csproj.GenerateResource.cache
+D:\Code Flakes\C# Console applications\Age calculator\Age calculator\obj\Debug\Age calculator.csproj.CoreCompileInputs.cache
+D:\Code Flakes\C# Console applications\Age calculator\Age calculator\obj\Debug\Age calculator.exe
+D:\Code Flakes\C# Console applications\Age calculator\Age calculator\obj\Debug\Age calculator.pdb

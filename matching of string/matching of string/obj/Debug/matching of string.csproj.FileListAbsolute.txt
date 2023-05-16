@@ -1,0 +1,8 @@
+C:\Users\Waleed Ahmed\Documents\C# Console applications\matching of string\matching of string\bin\Debug\matching of string.exe.config
+C:\Users\Waleed Ahmed\Documents\C# Console applications\matching of string\matching of string\bin\Debug\matching of string.exe
+C:\Users\Waleed Ahmed\Documents\C# Console applications\matching of string\matching of string\bin\Debug\matching of string.pdb
+C:\Users\Waleed Ahmed\Documents\C# Console applications\matching of string\matching of string\obj\Debug\matching of string.csproj.AssemblyReference.cache
+C:\Users\Waleed Ahmed\Documents\C# Console applications\matching of string\matching of string\obj\Debug\matching of string.csproj.SuggestedBindingRedirects.cache
+C:\Users\Waleed Ahmed\Documents\C# Console applications\matching of string\matching of string\obj\Debug\matching of string.csproj.CoreCompileInputs.cache
+C:\Users\Waleed Ahmed\Documents\C# Console applications\matching of string\matching of string\obj\Debug\matching of string.exe
+C:\Users\Waleed Ahmed\Documents\C# Console applications\matching of string\matching of string\obj\Debug\matching of string.pdb
